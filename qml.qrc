@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/SampleVideoPlayer/component/ErrorDialog.qml</file>
+        <file>qml/SampleVideoPlayer/component/MouseClickedMenu.qml</file>
+        <file>qml/SampleVideoPlayer/component/PlayerBar.qml</file>
+        <file>qml/SampleVideoPlayer/VideoButton/pic/menu.png</file>
+        <file>qml/SampleVideoPlayer/VideoButton/pic/menu_.png</file>
+        <file>qml/SampleVideoPlayer/VideoButton/pic/open.png</file>
+        <file>qml/SampleVideoPlayer/VideoButton/pic/open_.png</file>
+        <file>qml/SampleVideoPlayer/VideoButton/pic/pause.png</file>
+        <file>qml/SampleVideoPlayer/VideoButton/pic/pause_.png</file>
+        <file>qml/SampleVideoPlayer/VideoButton/pic/play.png</file>
+        <file>qml/SampleVideoPlayer/VideoButton/pic/play_.png</file>
+        <file>qml/SampleVideoPlayer/VideoButton/pic/rewind.png</file>
+        <file>qml/SampleVideoPlayer/VideoButton/pic/rewind_.png</file>
+        <file>qml/SampleVideoPlayer/VideoButton/pic/sound.png</file>
+        <file>qml/SampleVideoPlayer/VideoButton/pic/sound_.png</file>
+        <file>qml/SampleVideoPlayer/VideoButton/pic/speed.png</file>
+        <file>qml/SampleVideoPlayer/VideoButton/pic/speed_.png</file>
+        <file>qml/SampleVideoPlayer/VideoButton/pic/stop.png</file>
+        <file>qml/SampleVideoPlayer/VideoButton/pic/stop_.png</file>
+        <file>qml/SampleVideoPlayer/VideoButton/MenuButton.qml</file>
+        <file>qml/SampleVideoPlayer/VideoButton/OpenFileButton.qml</file>
+        <file>qml/SampleVideoPlayer/VideoButton/PlayOrPauseButton.qml</file>
+        <file>qml/SampleVideoPlayer/VideoButton/RewindButton.qml</file>
+        <file>qml/SampleVideoPlayer/VideoButton/SpeedButton.qml</file>
+        <file>qml/SampleVideoPlayer/VideoButton/StopButton.qml</file>
+        <file>qml/SampleVideoPlayer/VideoPlayer.qml</file>
+    </qresource>
+</RCC>
